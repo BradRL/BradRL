@@ -36,6 +36,6 @@ I'm Bradley Leach
 
 <h2>📫 Contact me</h2>
 
-<a href="<https://www.linkedin.com/in/bradley-leach-6b5155255/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a> <a>![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=ffffff)</a> <a href="https://leetcode.com/u/BradRL/">![Leetcode](
+<a href="https://www.linkedin.com/in/bradley-leach-6b5155255/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a> <a>![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=ffffff)</a> <a href="https://leetcode.com/u/BradRL/">![Leetcode](
 https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)</a>
 
