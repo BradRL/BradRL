@@ -4,8 +4,7 @@
 <h1>Hello! 👋</h1>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=BradRL&color=lightgray" alt="watching_count" />
-<img alt="followers" src="https://img.shields.io/github/followers/BradRL?label=Followers&style=social"><br>
+<img src="https://komarev.com/ghpvc/?username=BradRL&color=lightgray" alt="watching_count" /> <img alt="followers" src="https://img.shields.io/github/followers/BradRL?label=Followers&style=social"><br>
 
 I'm Bradley Leach
 - 🎓 2<sup>nd</sup> year Computer Science BCs (Hons) student
