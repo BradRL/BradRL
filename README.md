@@ -22,7 +22,7 @@ I'm Bradley Leach
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BradRL&repo=PlantPal)](https://github.com/BradRL/PlantPal)
 <br>🛠️ Arduino / C++, Wi-Fi connectivity, Hosted websites / databases
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradRl"/>
 
 <h2>🧠 Current skills</h2>
 
